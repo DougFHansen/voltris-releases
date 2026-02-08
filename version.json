@@ -1,6 +1,6 @@
 {
-  "latestVersion": "1.0.0.0",
-  "downloadUrl": "https://github.com/DougFHansen/voltris-releases/releases/download/v1.0.0.0/VoltrisUpdater_v1.0.0.0.exe",
-  "changelog": "Atualização Voltris Optimizer v1.0.0.3\n- Melhorias no SystemProfileInteligent\n- Sistema de atualização automática aprimorado",
+  "latestVersion": "1.0.0.1",
+  "downloadUrl": "https://github.com/DougFHansen/voltris-releases/releases/download/v1.0.0.1/VoltrisUpdater_x64.exe",
+  "changelog": "Voltris Optimizer v1.0.0.1\n- Arquitetura Enterprise (Arquivos soltos) implementada\n- Suporte nativo para sistemas x64 e x86\n- Melhorias críticas no SystemIntelligenceProfiler\n- Sistema de atualização automática com payload integrado",
   "mandatory": false
 }
