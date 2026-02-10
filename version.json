@@ -1,6 +1,6 @@
 {
-  "latestVersion": "1.0.0.1",
-  "downloadUrl": "https://github.com/DougFHansen/voltris-releases/releases/download/v1.0.0.1/VoltrisUpdater_x64.exe",
-  "changelog": "Voltris Optimizer v1.0.0.1\n- Arquitetura Enterprise (Arquivos soltos) implementada\n- Suporte nativo para sistemas x64 e x86\n- Melhorias críticas no SystemIntelligenceProfiler\n- Sistema de atualização automática com payload integrado",
+  "latestVersion": "1.0.0.2",
+  "downloadUrl": "https://github.com/DougFHansen/voltris-releases/releases/download/v1.0.0.2/VoltrisUpdate_x64.exe",
+  "changelog": "Voltris Optimizer v1.0.0.2\n- [FIX] FPS Drops em Jogos: Implementada Whitelist inteligente para evitar conflitos com Anti-Cheats (CS2, Vanguard, etc).\n- [FIX] Diagnóstico de Energia: Corrigida falha na ativação automática do Plano de Alto Desempenho (PowerDiag).\n- [CORE] Estabilização do OperationResult: Refatoração completa para maior confiabilidade em pipelines de otimização.\n- [RELEASE] Arquitetura Enterprise (Arquivos Soltos) para máxima performance e compatibilidade.",
   "mandatory": false
 }
