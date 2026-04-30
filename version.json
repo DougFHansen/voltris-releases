@@ -1,7 +1,7 @@
 {
-  "latestVersion": "1.0.1.4",
-  "downloadUrl": "https://github.com/DougFHansen/voltris-releases/releases/download/v1.0.1.4/VoltrisUpdater_x64.exe",
-  "changelog": "Voltris Optimizer v1.0.1.4\n- [FIX] Correção das URLs de atualização para apontar para o repositório correto (voltris-releases).\n- [FIX] Sistema de detecção de atualizações agora funciona corretamente.",
+  "latestVersion": "1.0.1.1",
+  "downloadUrl": "https://github.com/DougFHansen/voltris-releases/releases/download/v1.0.1.1/VoltrisUpdater_x64.exe",
+  "changelog": "Voltris Optimizer v1.0.1.1\n- [FIX] Correção das URLs de atualização para apontar para o repositório correto (voltris-releases).\n- [FIX] Sistema de detecção de atualizações agora funciona corretamente.",
   "mandatory": false,
   "releaseDate": "2026-04-30T22:00:00Z"
 }
