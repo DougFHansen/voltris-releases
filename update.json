@@ -1,9 +1,9 @@
 {
-  "version": "1.0.3.8",
+  "version": "1.0.3.9",
   "downloadUrl": "https://github.com/DougFHansen/voltris-releases/releases/download/v1.0.3.8/VoltrisUpdater_x64.exe",
-  "download": "https://github.com/DougFHansen/voltris-releases/releases/download/v1.0.3.8/VoltrisUpdater_x64.exe",
+  "download": "https://github.com/DougFHansen/voltris-releases/releases/download/v1.0.3.9/VoltrisUpdater_x64.exe",
   "changelog": [
-    "V1.0.3.8 - Correção de Estabilidade e Licenciamento",
+    "V1.0.3.9 - Correção de Estabilidade e Licenciamento",
     "Correção do sistema de vinculação de conta cloud",
     "Correção do sistema de desvinculação de dispositivos",
     "Correção das URLs de verificação de atualização"
